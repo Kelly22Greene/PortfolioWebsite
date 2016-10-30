@@ -1,0 +1,35 @@
+# Section title
+title = ""
+
+#[[projects]]
+#    name = "Portfolio"
+#    folder = "Portfolio"
+
+[[projects]]
+    name = "Designs"
+    folder = "Designs"
+
+[[projects]]
+    name = "User Interface and Heads Up Display"
+    folder = "UI"
+
+[[projects]]
+    name = "Digital Illustrations"
+    folder = "DigitalIllustrations"
+
+[[projects]]
+    name = "Collaborations"
+    folder = "Collaborations"
+
+[[projects]]
+    name = "Animations"
+    folder = "Animations"
+
+[[projects]]
+    name = "3D Modeling"
+    folder = "3DModeling"
+
+#[[projects]]
+#    name = "Figure Drawings"
+#    folder = "Figure Drawings"
+

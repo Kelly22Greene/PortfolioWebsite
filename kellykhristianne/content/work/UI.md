@@ -1,0 +1,6 @@
+![Crispy Icons](img/work/UI/eight_notches.jpg)
+![Crispy Icons](img/work/UI/Finalized-Health-HUD.jpg)
+![Crispy Icons](img/work/UI/Final-Health-HUD-Sprite-Sheet.png)
+![Crispy Icons](img/work/UI/Gun-HUD2.png)
+![Crispy Icons](img/work/UI/boss-hud.png)
+![Crispy Icons](img/work/UI/Full-Logo-Design-small.png)
