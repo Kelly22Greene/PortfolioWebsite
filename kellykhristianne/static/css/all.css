@@ -718,7 +718,6 @@ footer {
   .face-lockup [class^="icon-"] {
     height: 100px;
     width: 100px;
-    background: #e5eaee;
     border-radius: 50%; }
     .face-lockup [class^="icon-"] path {
       fill: #c99065; }
@@ -877,7 +876,8 @@ footer {
 .thumb-container {
   display: block;
   max-width: 960px;
-  margin: 0px auto; }
+  margin: 0px auto; 
+  overflow: hidden;}
   .thumb-container:after {
     content: "";
     display: table;
